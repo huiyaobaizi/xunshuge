@@ -1,9 +1,9 @@
 {
-  "versionCode": 20001,
-  "versionName": "1.0.0",
-  "updateLog": "## 当前版本\n\n- 多书源聚合搜索\n- 智能推荐 / 排行榜 / 书荒话题\n- 墨蓝夜间主题",
-  "downloadUrl": "https://gh-proxy.com/https://github.com/huiyaobaizi/xunshuge/releases/download/v1.0.0/xunshuge-1.0.0.apk",
-  "fileName": "xunshuge-1.0.0.apk",
-  "size": 41276226,
+  "versionCode": 20002,
+  "versionName": "1.0.1",
+  "updateLog": "## 修复\n\n- 修复正式版内容全部加载失败（混淆导致数据解析异常）\n- 版本号改为固定值",
+  "downloadUrl": "https://gh-proxy.com/https://github.com/huiyaobaizi/xunshuge/releases/download/v1.0.1/xunshuge-1.0.1.apk",
+  "fileName": "xunshuge-1.0.1.apk",
+  "size": 41418752,
   "forceUpdate": false
 }
