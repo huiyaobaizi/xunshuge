@@ -1,9 +1,9 @@
 {
-  "versionCode": 20002,
-  "versionName": "1.0.1",
-  "updateLog": "## 修复\n\n- 修复正式版内容全部加载失败（混淆导致数据解析异常）\n- 版本号改为固定值",
-  "downloadUrl": "https://gh-proxy.com/https://github.com/huiyaobaizi/xunshuge/releases/download/v1.0.1/xunshuge-1.0.1.apk",
-  "fileName": "xunshuge-1.0.1.apk",
-  "size": 41418752,
+  "versionCode": 20003,
+  "versionName": "1.0.2",
+  "updateLog": "## 修复\n\n- 书架支持长按：书籍详情 / 删除\n- 可从书架进入详情页，使用换源、分组、编辑\n- 长按菜单定位到被操作的书籍",
+  "downloadUrl": "https://gh-proxy.com/https://github.com/huiyaobaizi/xunshuge/releases/download/v1.0.2/xunshuge-1.0.2.apk",
+  "fileName": "xunshuge-1.0.2.apk",
+  "size": 41374524,
   "forceUpdate": false
 }
