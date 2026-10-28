@@ -1,9 +1,9 @@
 {
-  "versionCode": 20004,
-  "versionName": "1.0.3",
-  "updateLog": "## 新增广告投放策略\n\n- 累计读满 30 章才开始展示开屏广告\n- 后台停留超 60 秒，回前台补弹一次开屏\n- 每日开屏上限 8 次\n- 无真实广告位时完全静默，不产生白屏",
-  "downloadUrl": "https://gh-proxy.com/https://github.com/huiyaobaizi/xunshuge/releases/download/v1.0.3/xunshuge-1.0.3.apk",
-  "fileName": "xunshuge-1.0.3.apk",
-  "size": 41374508,
+  "versionCode": 20005,
+  "versionName": "1.0.4",
+  "updateLog": "## 修复\n\n- 启动页品牌图停留时长延长到 1 秒\n- 计时基准改为窗口真正可见时刻",
+  "downloadUrl": "https://gh-proxy.com/https://github.com/huiyaobaizi/xunshuge/releases/download/v1.0.4/xunshuge-1.0.4.apk",
+  "fileName": "xunshuge-1.0.4.apk",
+  "size": 41374511,
   "forceUpdate": false
 }
